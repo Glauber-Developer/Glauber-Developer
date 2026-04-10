@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Glauber-Developer" alt="Glauber-Developer" />
 <h1 align="center">Hi, I'm Glauber Araújo 👋</h1>
 <h3 align="center">Software Engineer | Backend | Distributed Systems | Cloud | DevOps</h3>
 
